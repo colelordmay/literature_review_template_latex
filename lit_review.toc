@@ -1,3 +1,0 @@
-\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\contentsline {section}{\citeauthor {Mahrt1987} \citeyear {Mahrt1987}}{2}{section*.2}%
-\contentsline {section}{\citeauthor {Ohata1989} \citeyear {Ohata1989}}{4}{section*.6}%
