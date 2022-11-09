@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'lit_review.blg'
+[58] biber-darwin:340> INFO - === Wed Nov  9, 2022, 12:43:22
+[70] Biber.pm:415> INFO - Reading 'lit_review.bcf'
+[150] Biber.pm:952> INFO - Found 2 citekeys in bib section 0
+[162] Biber.pm:4340> INFO - Processing section 0
+[170] Biber.pm:4531> INFO - Looking for bibtex format file 'mybib.bib' for section 0
+[171] bibtex.pm:1689> INFO - LaTeX decoding ...
+[174] bibtex.pm:1494> INFO - Found BibTeX data source 'mybib.bib'
+[206] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[206] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[206] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[206] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[209] bbl.pm:654> INFO - Writing 'lit_review.bbl' with encoding 'UTF-8'
+[210] bbl.pm:757> INFO - Output to lit_review.bbl
